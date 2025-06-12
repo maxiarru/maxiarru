@@ -26,7 +26,7 @@ Soy programador en el sector bancario, con experiencia en **Mainframe**(NATURAL)
 ## 📫 Contacto
 
 - 📧 **Email**: [maxiarru@gmail.com](mailto:maxiarru@gmail.com)
-- 💼 **LinkedIn**: *(agregar link si lo tenés)*
+- 💼 **LinkedIn**: *https://www.linkedin.com/in/maximiliano-arru%C3%B1ada-04410258/*
 - 🧑‍💻 **GitHub**: [@maxiarru](https://github.com/maxiarru)
 
 ---
