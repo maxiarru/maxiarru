@@ -1,19 +1,20 @@
-# 👋 ¡Hola! mi nombre es Maxi,
+# 👋 ¡Hola! Mi nombre es Maxi
 
-Soy programador en el sector bancario, con experiencia en mainframe pero actualmente me desempeño en el desarrollo de back-end y front-end.
-Utilizando tecnologías como:
+Soy programador en el sector bancario, con experiencia en **Mainframe**(NATURAL), y actualmente enfocado en el desarrollo **back-end** y **front-end**. Trabajo con tecnologías modernas y herramientas de automatización.
 
-- ⚙️ **C#, ASP.NET Core, Dapper, SQL Server y SQLite**
-- 🖥️ **React, JavaScript y HTML/CSS**
-- 🗃️ **Bases de datos SQL y NoSQL (MongoDB, Neo4j)**
-- 🛠️ Automatización, optimización y monitoreo de procesos
-- 📦 Integración con APIs y manejo de logs en tiempo real
+## ⚙️ Tecnologías que uso
 
-## 🚀 Proyectos Destacados
+- C#, ASP.NET Core, Dapper, SQL Server, SQLite  
+- React, JavaScript, HTML/CSS  
+- Bases de datos SQL y NoSQL (MongoDB, Neo4j)  
+- Automatización, optimización y monitoreo de procesos  
+- Integración con APIs y manejo de logs en tiempo real  
 
-- **Monitoreo de colas MQ**: Monitoreo en tiempo real de archivos `.log` con inserción optimizada en SQLite y file watchers.
-- **Servicios RESTful con ASP.NET Core**: APIs con validaciones, cacheo y manejo de errores estructurado.
-- **Apps fullstack**: Backend en .NET y frontend en React con comunicación vía HTTP.
+## 🚀 Proyectos destacados
+
+- **Monitoreo de colas MQ**: seguimiento en tiempo real de archivos `.log`, con inserciones optimizadas en SQLite y uso de `FileSystemWatcher`.
+- **Servicios RESTful con ASP.NET Core**: APIs robustas con validaciones, cacheo (`IMemoryCache`) y manejo de errores estructurado.
+- **Apps Fullstack**: back-end en .NET y front-end en React con comunicación vía HTTP.
 
 ## 🧪 Intereses actuales
 
@@ -24,8 +25,8 @@ Utilizando tecnologías como:
 
 ## 📫 Contacto
 
-- 📨 **Email**: [maxiarru@gmail.com](mailto:maxiarru@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/maxiarru) *(si tenés uno, lo agregamos)*
+- 📧 **Email**: [maxiarru@gmail.com](mailto:maxiarru@gmail.com)
+- 💼 **LinkedIn**: *(agregar link si lo tenés)*
 - 🧑‍💻 **GitHub**: [@maxiarru](https://github.com/maxiarru)
 
 ---
